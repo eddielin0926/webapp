@@ -1,0 +1,12 @@
+{
+  "name": "@webapp/web",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "bunx --bun vite",
+    "build": "bunx --bun vite build",
+    "lint": "eslint .",
+    "preview": "bunx --bun vite preview"
+  }
+}
