@@ -1,4 +1,4 @@
-import { type AppType } from "@webapp/api";
+import type { AppType } from "@webapp/api";
 
 import { hc } from "hono/client";
 
