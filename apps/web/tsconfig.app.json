@@ -27,7 +27,8 @@
     "paths": {
       "@/*": ["./src/*"],
       "@webapp/api": ["../api/src/index.ts"],
-      "@webapp/ui/*": ["../../packages/ui/src/*"]
+      "@webapp/ui/*": ["../../packages/ui/src/*"],
+      "@webapp/db": ["../../packages/db/src/index.ts"]
     }
   },
   "include": ["src"]

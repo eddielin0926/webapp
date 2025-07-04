@@ -19,6 +19,7 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
       "@webapp/api": path.resolve(__dirname, "../../apps/api/src"),
       "@webapp/ui": path.resolve(__dirname, "../../packages/ui/src"),
+      "@webapp/db": path.resolve(__dirname, "../../packages/db/src"),
     },
   },
   server: {

@@ -1,0 +1,10 @@
+{
+  "name": "@webapp/db",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "studio": "drizzle-kit studio",
+    "generate": "drizzle-kit generate",
+    "migrate": "drizzle-kit migrate"
+  }
+}
