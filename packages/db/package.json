@@ -1,5 +1,5 @@
 {
-  "name": "@webapp/db",
+  "name": "@webun/db",
   "module": "index.ts",
   "type": "module",
   "scripts": {

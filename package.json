@@ -1,5 +1,5 @@
 {
-  "name": "@webapp/source",
+  "name": "@webun/source",
   "private": true,
   "workspaces": [
     "apps/*",

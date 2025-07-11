@@ -11,10 +11,10 @@
   },
   "iconLibrary": "lucide",
   "aliases": {
-    "components": "@webapp/ui/components",
-    "utils": "@webapp/ui/lib/utils",
-    "hooks": "@webapp/ui/hooks",
-    "lib": "@webapp/ui/lib",
-    "ui": "@webapp/ui/components"
+    "components": "@webun/ui/components",
+    "utils": "@webun/ui/lib/utils",
+    "hooks": "@webun/ui/hooks",
+    "lib": "@webun/ui/lib",
+    "ui": "@webun/ui/components"
   }
 }

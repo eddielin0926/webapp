@@ -1,5 +1,5 @@
 {
-  "name": "@webapp/api",
+  "name": "@webun/api",
   "private": true,
   "version": "0.1.0",
   "scripts": {

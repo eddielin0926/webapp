@@ -17,9 +17,9 @@ export default defineConfig({
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
-      "@webapp/api": path.resolve(__dirname, "../../apps/api/src"),
-      "@webapp/ui": path.resolve(__dirname, "../../packages/ui/src"),
-      "@webapp/db": path.resolve(__dirname, "../../packages/db/src"),
+      "@webun/api": path.resolve(__dirname, "../../apps/api/src"),
+      "@webun/ui": path.resolve(__dirname, "../../packages/ui/src"),
+      "@webun/db": path.resolve(__dirname, "../../packages/db/src"),
     },
   },
   server: {
